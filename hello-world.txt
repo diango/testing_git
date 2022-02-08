@@ -1,1 +1,7 @@
-This file is for the parctice purpose.
+This is the text body of the file that is been created that I just changed.
+
+This is new line 1
+
+This is new line 2
+
+This is new line 3
